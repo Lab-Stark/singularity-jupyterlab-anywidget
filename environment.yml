@@ -8,5 +8,6 @@ dependencies:
   - jupyterhub-singleuser=2.3.0
   - pip:
       - batchspawner==1.1.0
+      - pygv
   # add your own plugins here
-...
+
