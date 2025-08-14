@@ -1,6 +1,6 @@
 
 buildRepo2Docker([
-  imageName: 'jupyter-minimal-conda',
+  imageName: 'jupyter-custom-anywidget-conda',
   pushRegistryNamespace: 'clip'
 ])
 
